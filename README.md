@@ -3,7 +3,8 @@
 <p align="center">Welcome! I'm here to share a range of projects and tools designed to enhance your tech experience. Explore cutting-edge solutions ranging from network security to robust database management.</p>
 
 <h2 align="center">🌟 Flagship Project 🌟</h2>
-<p align="center"><strong><a href="https://github.com/RexBytes/pgmonkey">pgmonkey</a></strong>: Our flagship project, a comprehensive CLI for PostgreSQL configuration and management. Learn more at <a href="https://pgmonkey.net/">pgmonkey.net</a>.</p>
+<p align="center"><strong><a href="https://github.com/RexBytes/pgmonkey">pgmonkey</a></strong>: Our flagship project, not just a comprehensive CLI but also a powerful package for PostgreSQL configuration and management. Use it for writing code, testing connections, generating example code, creating connection files, and managing data import/export. Learn more at <a href="https://pgmonkey.net/">pgmonkey.net</a>.</p>
+
 
 <h3 align="center">Other Featured Projects:</h3>
 <table align="center">
